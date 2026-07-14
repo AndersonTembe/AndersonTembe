@@ -90,6 +90,14 @@ Hi 👋 I'm **Anderson Tembe** <br><br>
     style="padding-right:10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
 />
+<img
+    align="left"
+    alt="Maven"
+    title="Maven"
+    width="30px"
+    style="padding-right:10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg"
+/>
 
 <br/>
 <br/>
