@@ -117,6 +117,9 @@ Hi 👋 I'm **Anderson Tembe** <br><br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonTembe&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=AndersonTembe&theme=onedark)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
