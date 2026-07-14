@@ -75,11 +75,11 @@ Hi 👋 I'm **Anderson Tembe** <br><br>
 
 <img
     align="left"
-    alt="C"
-    title="C"
+    alt="Docker"
+    title="Docker"
     width="30px"
     style="padding-right:10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
 />
 
 <br/>
