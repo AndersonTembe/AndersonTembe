@@ -1,10 +1,14 @@
 
-# 💫 About Me:
+# 💫 About Me
 
-Hi 👋 I'm Anderson Tembe
-🎓 Software Engineering Student at the University of Aveiro
-💻 Junior Software Developer passionate about Backend, Full Stack Development and Software Engineering.
-🚀 Currently working with Java, Spring Boot, React, Docker and Machine Learning.
+Hi 👋 I'm **Anderson Tembe**
+
+🎓 **Software Engineering Student** at the **University of Aveiro**
+
+💻 **Junior Software Developer** passionate about **Backend Development, Full Stack Development and Software Engineering**
+
+🚀 Currently working with **Java, Spring Boot, React, Docker and Machine Learning**
+
 📚 Always learning new technologies and building practical projects.
 
 
