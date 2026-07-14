@@ -3,7 +3,7 @@ Hey, Eu sou o Anderson Tembe<br>Software Engineering Student | Junior Software D
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Anderson.Tembe) [![LinkedIn]
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Anderson.Tembe) 
  
 
 # 💻 Tech Stack:
