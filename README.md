@@ -110,53 +110,16 @@ Hi 👋 I'm **Anderson Tembe** <br><br>
 <br/>
 <br/>
 
-## 📈 Contribution Graph
-
-[![Anderson's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AndersonTembe&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
 ## 📊Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AndersonTembe&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AndersonTembe&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonTembe&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+## 📈 Contribution Graph
 
-## 📊 GitHub Stats
+[![Anderson's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AndersonTembe&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<table>
-<tr>
-<td>
-
-![](https://github-readme-stats.vercel.app/api?username=AndersonTembe&theme=react&show_icons=true&include_all_commits=true&count_private=true)
-
-</td>
-
-<td>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AndersonTembe&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<table>
-<tr>
-<td>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=AndersonTembe&theme=react)
-
-</td>
-
-<td>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonTembe&theme=react&layout=compact)
-
-</td>
-</tr>
-</table>
 
 
 
