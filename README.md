@@ -41,6 +41,9 @@ Hey, Eu sou o Anderson Tembe<br>Software Engineering Student | Junior Software D
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
 
+<br/>
+<br/>
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AndersonTembe&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
